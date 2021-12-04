@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @asaif61
+- 👀 I’m interested in Data Science and Analytics
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Supply Chain and Logistics Management
+- 📫 How to reach me @ahmed.saif01@gmail.com
